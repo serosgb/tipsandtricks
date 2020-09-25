@@ -2,9 +2,12 @@
 
 ## Tools
 
-## XML 
-A light-weight, high-performance and scalable XML Database and an XQuery 3.1 Processor
-baseX [link](https://docs.basex.org/)
+## Json converter
+jq is a lightweight and flexible command-line JSON processor.
+[https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
+
+## BaseX XML database 
+A light-weight, high-performance and scalable XML Database and an XQuery 3.1 Processor. [https://docs.basex.org/](https://docs.basex.org/)
 
 ### SASS
-Playground for Sass: [sassmeister](https://www.sassmeister.com/)
+Playground for Sass: [https://www.sassmeister.com/](https://www.sassmeister.com/)
