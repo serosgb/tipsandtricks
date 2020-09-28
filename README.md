@@ -11,3 +11,7 @@ A light-weight, high-performance and scalable XML Database and an XQuery 3.1 Pro
 
 ### SASS
 Playground for Sass: [https://www.sassmeister.com/](https://www.sassmeister.com/)
+
+## Libraries
+
+Audacity MP3 converter library. [https://lame.buanzo.org/#lamewindl](https://lame.buanzo.org/#lamewindl)
