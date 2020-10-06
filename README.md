@@ -2,6 +2,9 @@
 
 ## Tools
 
+## SQLInspect
+Extracting SQL code embedded in Java. [https://perso.unamur.be/~cnagy/sqlinspect/](https://perso.unamur.be/~cnagy/sqlinspect/)
+
 ## Json converter
 jq is a lightweight and flexible command-line JSON processor.
 [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
