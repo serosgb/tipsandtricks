@@ -2,6 +2,10 @@
 
 ## Tools
 
+## SQL ER diagram generator
+SchemaSpy is a Java-based tool (requires Java 5 or higher) that analyzes the metadata of a schema in a database and generates a visual representation of it in a browser-displayable format. It lets you click through the hierarchy of database tables via child and parent table relationships as represented by both HTML links and entity-relationship diagrams. It's also designed to help resolve the obtuse errors that a database sometimes gives related to failures due to constraints.
+[http://schemaspy.sourceforge.net/](http://schemaspy.sourceforge.net/)
+
 ## SQLInspect
 Extracting SQL code embedded in Java. [https://perso.unamur.be/~cnagy/sqlinspect/](https://perso.unamur.be/~cnagy/sqlinspect/)
 
