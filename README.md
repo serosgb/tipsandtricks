@@ -10,6 +10,10 @@ Create better designed websites, products and applications. Browse to find the i
 
 [https://undraw.co/](https://undraw.co/)
 
+## Lorem Picsum
+Easy to use, stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image. 
+[https://picsum.photos/](https://picsum.photos/)
+
 ## Tools
 
 ## SQL ER diagram generator
