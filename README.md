@@ -16,6 +16,18 @@ Create better designed websites, products and applications. Browse to find the i
 Easy to use, stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image. 
 [https://picsum.photos/](https://picsum.photos/)
 
+## CSS Gradient
+CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
+[https://cssgradient.io/](https://cssgradient.io/)
+
+## CSS Box Shadow
+[https://html-css-js.com/css/generator/box-shadow/](https://html-css-js.com/css/generator/box-shadow/)
+
+## CSS Clip Path Maker
+The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
+[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
+
+
 ## Tools
 
 ## Diffchecker
