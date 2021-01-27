@@ -63,6 +63,11 @@ Playground for Sass: [https://www.sassmeister.com/](https://www.sassmeister.com/
 
 Audacity MP3 converter library. [https://lame.buanzo.org/#lamewindl](https://lame.buanzo.org/#lamewindl)
 
+# Automation
+## Zapier
+Eliminate manual, repetitive tasks by connecting the apps your small business relies on — so you can do more with less work.
+[https://zapier.com/](https://zapier.com/)
+
 # English
 ## Grammarly
 Digital writing assistance tool based on artificial intelligence and natural language processing.
