@@ -62,3 +62,18 @@ Playground for Sass: [https://www.sassmeister.com/](https://www.sassmeister.com/
 ## Libraries
 
 Audacity MP3 converter library. [https://lame.buanzo.org/#lamewindl](https://lame.buanzo.org/#lamewindl)
+
+# English
+## Grammarly
+Digital writing assistance tool based on artificial intelligence and natural language processing.
+[https://app.grammarly.com/](https://app.grammarly.com/)
+
+## Youglish
+Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context.
+[https://youglish.com/](https://youglish.com/)
+
+## Ludwig
+Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.
+[https://ludwig.guru/](https://ludwig.guru/)
+
+
