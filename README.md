@@ -82,3 +82,6 @@ Ludwig is the first sentence search engine that helps you write better English b
 [https://ludwig.guru/](https://ludwig.guru/)
 
 
+# Español
+En LlevaTilde puedes analizar las reglas de acentuación gráfica y separación de sílabas de palabras, estén o no en el diccionario. Puedes inventarte palabras si quieres.
+[https://llevatilde.es/](https://llevatilde.es/)
