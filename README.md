@@ -2,6 +2,16 @@
 
 ## Design
 
+### Figma
+Figma is a cloud-based design and prototyping tool for digital projects. It’s made so that users can collaborate on projects and work pretty much anywhere.
+
+[https://www.figma.com/](https://www.figma.com/)
+
+### Icon Finder
+The world’s largest marketplace for icons.
+
+[https://www.iconfinder.com/](https://www.iconfinder.com/)
+
 ### Undraw
 
 Open-source illustrations for any idea you can imagine and create.
