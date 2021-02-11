@@ -69,6 +69,16 @@ A light-weight, high-performance and scalable XML Database and an XQuery 3.1 Pro
 
 Playground for Sass: [https://www.sassmeister.com/](https://www.sassmeister.com/)
 
+### Play with Docker
+
+PWD is a Docker playground which allows users to run Docker commands in a matter of seconds. It gives the experience of having a free Alpine Linux Virtual Machine in browser, where you can build and run Docker containers and even create clusters in Docker Swarm Mode.
+
+[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
+
+### Database-as-a-Service for MongoDB
+
+[https://mlab.com/](https://mlab.com/)
+
 ## Libraries
 
 Audacity MP3 converter library. [https://lame.buanzo.org/#lamewindl](https://lame.buanzo.org/#lamewindl)
