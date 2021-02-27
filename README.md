@@ -5,6 +5,18 @@ Free screen capture tool for Windows, Max, Chrome, Firefox, Opera.
 
 [https://app.prntscr.com/](https://app.prntscr.com/)
 
+## Hosting and Deployment
+
+### Netlify (front-end)
+ A powerful serverless platform for Jamstack.
+ 
+[https://www.netlify.com/](https://www.netlify.com/)
+
+### Heroku (back-end)
+Build data-driven apps with fully managed data services
+
+[https://www.heroku.com/](https://www.heroku.com/)
+
 ## Design
 
 ### Figma
@@ -12,10 +24,33 @@ Figma is a cloud-based design and prototyping tool for digital projects. It’s 
 
 [https://www.figma.com/](https://www.figma.com/)
 
+### 
+
+[https://zeplin.io/](https://zeplin.io/)
+
 ### Icon Finder
 The world’s largest marketplace for icons.
 
 [https://www.iconfinder.com/](https://www.iconfinder.com/)
+
+### Flat icon
+https://coverr.co/
+
+[https://www.flaticon.com/](https://www.flaticon.com/)
+
+### Animated Icons
+Animated Icons
+
+[https://icons8.com/animated-icons](https://icons8.com/animated-icons)
+
+### Icons8
+Icons, illustrations, photos, music, and design tools
+
+[https://icons8.com/](https://icons8.com/)
+
+### Fonts
+
+[https://fonts.google.com/](https://fonts.google.com/)
 
 ### Undraw
 
@@ -26,47 +61,75 @@ Create better designed websites, products and applications. Browse to find the i
 
 [https://undraw.co/](https://undraw.co/)
 
-## Lorem Picsum
+### Lorem Picsum
 
 Easy to use, stylish placeholders. Just add your desired image size (width & height) after our URL, and you'll get a random image. 
 [https://picsum.photos/](https://picsum.photos/)
 
-## CSS Gradient
+### CSS Gradient
 CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites.
 [https://cssgradient.io/](https://cssgradient.io/)
 
-## CSS Box Shadow
+### CSS Box Shadow
 [https://html-css-js.com/css/generator/box-shadow/](https://html-css-js.com/css/generator/box-shadow/)
 
-## CSS Clip Path Maker
+### CSS Clip Path Maker
 The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source.
 [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
 
+### Unsplash
+Photos for everyone
+
+[https://unsplash.com/](https://unsplash.com/)
+
+### Pexels
+The best free stock photos and video.
+[https://www.pexels.com/](https://www.pexels.com/)
+
+### Coverr
+Beautiful Free Stock Video Footage
+
+[https://coverr.co/](https://coverr.co/)
+
+### Image compressor
+This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality.
+
+[https://imagecompressor.com/](https://imagecompressor.com/)
 
 ## Tools
 
-## Diffchecker
+### One time secret
+One-Time Secret as a way to share sensitive information that's both simple and secure. 
+
+[https://onetimesecret.com/](https://onetimesecret.com/)
+
+### 10 minute mail
+Maybe you want to sign up for a site which requires that you provide an e-mail address to send validation e-mail to. And maybe you don't want to give up your real e-mail address and end up on a bunch of spam lists. This is nice and disposable
+
+[https://10minutemail.com/](https://10minutemail.com/)
+
+### Diffchecker
 
 Diffchecker is a diff tool to compare text differences between two text files.
 Enter the contents of two files and click Find Difference
 
 [https://www.diffchecker.com/](https://www.diffchecker.com/)
 
-## SQL ER diagram generator
+### SQL ER diagram generator
 
 SchemaSpy is a Java-based tool (requires Java 5 or higher) that analyzes the metadata of a schema in a database and generates a visual representation of it in a browser-displayable format. It lets you click through the hierarchy of database tables via child and parent table relationships as represented by both HTML links and entity-relationship diagrams. It's also designed to help resolve the obtuse errors that a database sometimes gives related to failures due to constraints.
 [http://schemaspy.sourceforge.net/](http://schemaspy.sourceforge.net/)
 
-## SQLInspect
+### SQLInspect
 
 Extracting SQL code embedded in Java. [https://perso.unamur.be/~cnagy/sqlinspect/](https://perso.unamur.be/~cnagy/sqlinspect/)
 
-## Json converter
+### Json converter
 
 jq is a lightweight and flexible command-line JSON processor.
 [https://stedolan.github.io/jq/](https://stedolan.github.io/jq/)
 
-## BaseX XML database 
+### BaseX XML database 
 
 A light-weight, high-performance and scalable XML Database and an XQuery 3.1 Processor. [https://docs.basex.org/](https://docs.basex.org/)
 
@@ -84,12 +147,62 @@ PWD is a Docker playground which allows users to run Docker commands in a matter
 
 [https://mlab.com/](https://mlab.com/)
 
+### Web design trends
+
+[https://www.awwwards.com/](https://www.awwwards.com/)
+
+### Dribbble
+Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
+
+[https://dribbble.com/](https://dribbble.com/)
+
+
+### Caniuse
+"Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+
+[https://caniuse.com/](https://caniuse.com/)
+
+[https://www.emailjs.com/](https://www.emailjs.com/)
+
+[https://css-tricks.com/](https://css-tricks.com/)
+
+## Development learning
+
+### Free code camp
+
+https://www.freecodecamp.org/
+
+### The odin project
+
+https://www.theodinproject.com/
+
+### Mem Dev
+Mem.dev's smart flashcards let you effortlessly memorize code snippets, so that when you need them at work, you have them.
+
+[https://mem.dev/](https://mem.dev/)
+
+### Leetcode
+LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
+[https://leetcode.com/](https://leetcode.com/)
+
+###  Exercism.io
+Level up your programming skills with 3,450 exercises across 52 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+
+[https://exercism.io/](https://exercism.io/)
+
+### Codewars
+Real code challenges
+
+[https://www.codewars.com/](https://www.codewars.com/)
+
+
 ## Libraries
 
 Audacity MP3 converter library. [https://lame.buanzo.org/#lamewindl](https://lame.buanzo.org/#lamewindl)
 
 # Automation
-## Zapier
+### Zapier
 Eliminate manual, repetitive tasks by connecting the apps your small business relies on — so you can do more with less work.
 [https://zapier.com/](https://zapier.com/)
 
