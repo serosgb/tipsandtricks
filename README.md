@@ -166,6 +166,12 @@ Dribbble is the leading destination to find & showcase creative work and home to
 
 [https://css-tricks.com/](https://css-tricks.com/)
 
+## javascript libraries
+
+### date-fns
+date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
+[https://date-fns.org/](https://date-fns.org/)
+
 ## Development learning
 
 ### Free code camp
