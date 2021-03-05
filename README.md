@@ -172,6 +172,11 @@ Dribbble is the leading destination to find & showcase creative work and home to
 date-fns provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js.
 [https://date-fns.org/](https://date-fns.org/)
 
+### Vue Draggable
+Vue component (Vue.js 2.0) or directive (Vue.js 1.0) allowing drag-and-drop and synchronization with view model array.
+
+[https://github.com/SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+
 ## Development learning
 
 ### Free code camp
