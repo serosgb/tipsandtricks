@@ -177,6 +177,17 @@ Vue component (Vue.js 2.0) or directive (Vue.js 1.0) allowing drag-and-drop and 
 
 [https://github.com/SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
 
+## Localbase
+A Firebase-Style Database ... Offline!
+
+Localbase gives you an offline database with the simplicity & power of Firebase, all stored in the user's browser (in an IndexedDB database).
+
+You can create as many databases as you like.
+
+Databases are organised into Collections and Documents (just like Firebase Cloud Firestore).
+
+(https://github.com/dannyconnell/localbase)[https://github.com/dannyconnell/localbase]
+
 ## Development learning
 
 ### Free code camp
