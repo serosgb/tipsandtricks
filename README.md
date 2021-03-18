@@ -38,6 +38,11 @@ https://coverr.co/
 
 [https://www.flaticon.com/](https://www.flaticon.com/)
 
+### Heroicons
+Beautiful hand-crafted SVG icons,
+by the makers of Tailwind CSS.
+[https://heroicons.com/](https://heroicons.com/)
+
 ### Animated Icons
 Animated Icons
 
