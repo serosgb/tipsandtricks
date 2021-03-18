@@ -24,23 +24,36 @@ Figma is a cloud-based design and prototyping tool for digital projects. It’s 
 
 [https://www.figma.com/](https://www.figma.com/)
 
-### 
+### Zeplin
 
 [https://zeplin.io/](https://zeplin.io/)
+
+## Coolors
+The super fast color schemes generator!
+Create the perfect palette or get inspired by thousands of beautiful color schemes.
+
+[https://coolors.co/](https://coolors.co/)
 
 ### Icon Finder
 The world’s largest marketplace for icons.
 
 [https://www.iconfinder.com/](https://www.iconfinder.com/)
 
-### Flat icon
+## Coverr
+Beautiful Free Stock Video Footage
+
 https://coverr.co/
+
+
+### Flat icon
+The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 
 [https://www.flaticon.com/](https://www.flaticon.com/)
 
 ### Heroicons
 Beautiful hand-crafted SVG icons,
 by the makers of Tailwind CSS.
+
 [https://heroicons.com/](https://heroicons.com/)
 
 ### Animated Icons
