@@ -134,6 +134,11 @@ Maybe you want to sign up for a site which requires that you provide an e-mail a
 
 [https://10minutemail.com/](https://10minutemail.com/)
 
+## Geocode
+Geoparse and Geocode the World
+
+[http://geocode.xyz/](http://geocode.xyz/)
+
 ### Diffchecker
 
 Diffchecker is a diff tool to compare text differences between two text files.
