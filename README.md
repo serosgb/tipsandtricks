@@ -66,6 +66,14 @@ Icons, illustrations, photos, music, and design tools
 
 [https://icons8.com/](https://icons8.com/)
 
+### Placeholder images
+Placeholder.com generates custom placeholder images on the fly. 
+
+It is a free image placeholder service for web designers, serving billions and billions of images each year. You can specify image size & format (.GIF, .JPG, .PNG, .WEBP), background color & text color, as well as the text.
+
+[https://placeholder.com/](https://placeholder.com/)
+
+
 ### Fonts
 
 [https://fonts.google.com/](https://fonts.google.com/)
