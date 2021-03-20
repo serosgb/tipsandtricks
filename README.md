@@ -179,6 +179,13 @@ PWD is a Docker playground which allows users to run Docker commands in a matter
 
 [https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
 
+### Hackthebox
+A Massive Hacking Playground
+
+Join a dynamically growing hacking community and take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience!
+
+[https://www.hackthebox.eu/](https://www.hackthebox.eu/)
+
 ### Database-as-a-Service for MongoDB
 
 [https://mlab.com/](https://mlab.com/)
