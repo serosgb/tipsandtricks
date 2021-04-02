@@ -37,4 +37,11 @@ Json Formatter
 
 color.adobe.com
 
+Inspiration sites for mobile apps
+
+https://www.behance.net/
+https://dribbble.com/
+https://www.pinterest.ca/
+
+https://fontawesome.com/ (Icons)
 
