@@ -242,6 +242,7 @@ Static Site Generator
 [Official Site](https://vuepress.vuejs.org/)
 [Styles and Config](https://vuepress.vuejs.org/config/#palette-styl)
 [Book](https://vuepressbook.com/)
+[Plugins and resources](https://github.com/vuepress/awesome-vuepress)
 
 ## Development learning
 
