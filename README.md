@@ -19,6 +19,11 @@ Build data-driven apps with fully managed data services
 
 ## Design
 
+### UI Goodies
+The best resources for designers in one place.
+
+[http://www.uigoodies.com/](http://www.uigoodies.com/)
+
 ### Figma
 Figma is a cloud-based design and prototyping tool for digital projects. It’s made so that users can collaborate on projects and work pretty much anywhere.
 
@@ -230,6 +235,13 @@ You can create as many databases as you like.
 Databases are organised into Collections and Documents (just like Firebase Cloud Firestore).
 
 (https://github.com/dannyconnell/localbase)[https://github.com/dannyconnell/localbase]
+
+##Vuepresss
+Static Site Generator
+
+[Official Site](https://vuepress.vuejs.org/)
+[Styles and Config](https://vuepress.vuejs.org/config/#palette-styl)
+[Book](https://vuepressbook.com/)
 
 ## Development learning
 
