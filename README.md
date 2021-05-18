@@ -134,6 +134,14 @@ This online image optimizer uses a smart combination of the best optimization an
 
 ## Tools
 
+### GitHub Profile Readme Generator
+
+[https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+### Awesome GitHub Profile README
+
+[https://github.com/abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
 ### One time secret
 One-Time Secret as a way to share sensitive information that's both simple and secure. 
 
