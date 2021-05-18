@@ -297,6 +297,9 @@ Use YouTube to improve your English pronunciation. With more than 100M tracks, Y
 Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.
 [https://ludwig.guru/](https://ludwig.guru/)
 
+## Pasttenses
+Website for synonyms, antonyms, verb conjugations and translations
+[https://pasttenses.com/](https://pasttenses.com/)
 
 # Español
 En LlevaTilde puedes analizar las reglas de acentuación gráfica y separación de sílabas de palabras, estén o no en el diccionario. Puedes inventarte palabras si quieres.
