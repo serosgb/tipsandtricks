@@ -173,6 +173,10 @@ SchemaSpy is a Java-based tool (requires Java 5 or higher) that analyzes the met
 
 Extracting SQL code embedded in Java. [https://perso.unamur.be/~cnagy/sqlinspect/](https://perso.unamur.be/~cnagy/sqlinspect/)
 
+### Java Shell
+Java Terminal
+[https://tryjshell.org/](https://tryjshell.org/)
+
 ### Json converter
 
 jq is a lightweight and flexible command-line JSON processor.
