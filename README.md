@@ -5,6 +5,11 @@ Free screen capture tool for Windows, Max, Chrome, Firefox, Opera.
 
 [https://app.prntscr.com/](https://app.prntscr.com/)
 
+## GitHub and Git
+Simple editor allows you to quickly add and customize all the sections you need for your project's readme
+
+<a href="https://readme.so/" target="_blank">https://readme.so/</a>
+
 ## Hosting and Deployment
 
 ### Netlify (front-end)
