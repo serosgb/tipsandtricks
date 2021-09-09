@@ -261,6 +261,12 @@ Static Site Generator
 [Book](https://vuepressbook.com/)
 [Plugins and resources](https://github.com/vuepress/awesome-vuepress)
 
+## Fake SMTP
+[http://nilhcem.com/FakeSMTP/](http://nilhcem.com/FakeSMTP/)
+
+## smtp4dev 
+[https://github.com/rnwood/smtp4dev](https://github.com/rnwood/smtp4dev)
+
 ## Development learning
 
 ### Free code camp
