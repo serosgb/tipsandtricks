@@ -267,6 +267,12 @@ Static Site Generator
 ## smtp4dev 
 [https://github.com/rnwood/smtp4dev](https://github.com/rnwood/smtp4dev)
 
+## CloudPing.info
+The site allows you to get the better region in AWS
+
+[https://www.cloudping.info/](https://www.cloudping.info/)
+
+
 ## Development learning
 
 ### Free code camp
