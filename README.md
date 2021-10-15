@@ -272,6 +272,11 @@ The site allows you to get the better region in AWS
 
 [https://www.cloudping.info/](https://www.cloudping.info/)
 
+## cloudpingtest.com
+Get the better region in Oracle Cloid (OCI)
+
+[https://cloudpingtest.com/oracle](https://cloudpingtest.com/oracle)
+[https://www.cloudping.cloud/oracle](https://www.cloudping.cloud/oracle)
 
 ## Development learning
 
