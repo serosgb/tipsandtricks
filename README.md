@@ -276,7 +276,14 @@ The site allows you to get the better region in AWS
 Get the better region in Oracle Cloid (OCI)
 
 [https://cloudpingtest.com/oracle](https://cloudpingtest.com/oracle)
+
+2nd Link
 [https://www.cloudping.cloud/oracle](https://www.cloudping.cloud/oracle)
+
+## CIDR to IPv4 Conversion (Calculator)
+
+[https://www.ipaddressguide.com/cidr](https://www.ipaddressguide.com/cidr)
+
 
 ## Development learning
 
