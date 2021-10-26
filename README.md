@@ -38,6 +38,12 @@ Figma is a cloud-based design and prototyping tool for digital projects. It’s 
 
 [https://zeplin.io/](https://zeplin.io/)
 
+## Free Illustrations
+Free for commercial and personal use under the CC0 license (MIT license) — No attribution required.
+
+[https://lukaszadam.com/illustrations?ref=designcousre](https://lukaszadam.com/illustrations?ref=designcousre)
+
+
 ## Coolors
 The super fast color schemes generator!
 Create the perfect palette or get inspired by thousands of beautiful color schemes.
