@@ -143,6 +143,15 @@ This online image optimizer uses a smart combination of the best optimization an
 
 [https://imagecompressor.com/](https://imagecompressor.com/)
 
+### Cleanup pictures
+Remove any object, people, text or defects from your pictures
+
+[https://cleanup.pictures/](https://cleanup.pictures/)
+
+### Remove BG
+Remove Image Background 100% Automatically and Free
+[https://www.remove.bg/](https://www.remove.bg/)
+
 ## Tools
 
 ### GitHub Profile Readme Generator
