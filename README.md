@@ -362,6 +362,13 @@ Real code challenges
 
 [https://www.codewars.com/](https://www.codewars.com/)
 
+### Front-End Interview Hadbook
+[https://github.com/yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+
+### Algo Monster
+AlgoMonster will help you crush the technical interview in less time and with fewer sleepless nights grinding away random problems. You will learn the key patterns necessary to solve almost any interview question and gain the systematic knowledge you need to prove your expertise. Be more confident as you walk into that interview!
+
+[https://algo.monster/][https://algo.monster/]
 
 ## Libraries
 
