@@ -392,6 +392,12 @@ Use YouTube to improve your English pronunciation. With more than 100M tracks, Y
 Ludwig is the first sentence search engine that helps you write better English by giving you contextualized examples taken from reliable sources.
 [https://ludwig.guru/](https://ludwig.guru/)
 
+## Word Hippo
+Thesaurus and word tools for your creative needs. 
+> Synonyms, Antonyms, Definitions, Rhymes, Sentences, Translations, Find Words, Word Forum, Pronunciations, plurals, and more.
+
+[https://www.wordhippo.com/](https://www.wordhippo.com/)
+
 ## Pasttenses
 Website for synonyms, antonyms, verb conjugations and translations
 [https://pasttenses.com/](https://pasttenses.com/)
