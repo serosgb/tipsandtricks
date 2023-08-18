@@ -1,0 +1,806 @@
+
+Hola todos.
+Soy
+el director de Aliento de lo Salvaje.
+Gracias por asistir.
+Estos son algunos de los títulos pasados ​​que he trabajado
+como director y como diseñador de juegos.
+Mirando hacia atrás, he estado trabajando en títulos de Zelda durante 20 años.
+De hecho, yo mismo estoy sorprendido.
+Bueno, entonces comencemos primero. Por favor, eche un vistazo a esto.
+A qué se parece esto?
+En
+A primera vista, podría parecerse al Zelda original en Nes.
+Pero echa un vistazo más de cerca,
+Notarás que el enlace es azul, hay una hoja y también lo que parece ser un tubo marrón.
+como resulta,
+esta imagen aquí juega un papel crucial en nuestro tema de hoy de constante y cambio.
+Pero déjame volver a esto un poco más tarde.
+como probablemente ya sepas.
+Estas son imágenes de la leyenda de Zelda Breath of The Wild,
+que está programado para lanzarse en solo dos días
+el 3 de marzo junto con Nintendo Switch.
+Qué opinas
+¿hacer?
+Gracias. Excelente.
+Bien, sigamos adelante.
+Oh
+Me alivia saber que conoces este título.
+Entonces, ¿cómo te pareció este nuevo Legend of Zelda Breath of The Wild?
+¿Parece que ha hecho un gran avance y ha cambiado por completo
+¿O parece que no ha cambiado mucho en absoluto?
+¿Al planificar este título?
+Primero pensé, ¿qué quiero hacer con un Nuevo Zelda?
+Y luego pensé,
+¿Qué es lo que necesito para que eso suceda?
+Y la clave para responder a estas preguntas estaba en
+estos dos conceptos que quizás hayas escuchado antes,
+redescubriendo la esencia y rompiendo convenciones.
+Lo que quería lograr con este nuevo Zelda era crear un
+juego donde el usuario puede experimentar verdaderamente la libertad en un campo de juego expansivo.
+Y a través de la exploración de este campo,
+Quería que el usuario pudiera volver a experimentar una nueva sensación de aventura.
+una y otra vez y poder navegar libremente a través de él como mejor les parezca.
+En otras palabras, esto significa un juego donde el usuario puede pensar y decidir por sí mismo,
+dónde quieren ir y qué quieren hacer.
+Y cuando comencé a pensar de esta manera, ¿lo que me vino a la mente fue el original?
+¿No suena esto como el Zelda original?
+luchando contra enemigos desalentadores y desplazándose por el campo.
+Y cada vez que la pantalla se desplazaba,
+había un nuevo descubrimiento por hacer y una nueva solución por descubrir
+un juego donde el usuario puede pensar y decidir por sí mismo,
+adónde quieren ir y qué quieren
+quieres hacer y experimentar la emoción y la aventura.
+Pensé dentro de mí,
+tal vez lo que necesito hacer para crear un juego así es volver a la esencia,
+experiencias emocionantes y palpitantes.
+La tierra de
+donde se desarrolla Zelda está lleno de un gran espíritu de aventura.
+Echa un vistazo a este mapa.
+Esto puede parecer familiar para algunos de ustedes,
+pero esta es una ilustración que un artista creó hace unos
+hace años en un intento de ponerlo por escrito.
+Este gran espíritu de aventura.
+Es un mapa de alta
+y es algo con lo que me topé mientras
+Estaba ordenando los activos para esta presentación.
+Esto en realidad no tiene nada que ver con el Aliento de
+The Wild o con el título anterior Skyward Sword,
+pero echa un vistazo de cerca. Es bastante interesante.
+Hay una isla flotante
+y aunque la colocación está apagada,
+hay lo que parece la Gran Meseta donde link despierta esta vez
+e incluso hay una pequeña entrada a la cueva,
+un inmenso castillo hermoso que te recuerda
+de la Europa medieval y volcanes abrasadores,
+bosque denso que una vez que ingresas, es posible que no tengas esperanza de escapar.
+Y por supuesto, mazmorras que encierran innumerables misterios,
+la tierra de
+tiene todos los ingredientes necesarios para una gran aventura.
+Pero me doy cuenta de que para crear un juego en el que, como mencioné anteriormente,
+el usuario puede pensar y decidir por sí mismo dónde
+quieren ir y lo que quieren hacer.
+Hubo bastantes obstáculos que superar,
+no poder avanzar con un evento sin haber seguido un camino establecido,
+tener paredes que no puedes sortear debido al diseño de niveles.
+O podría ser que, a menos que haya pasado por un conjunto predeterminado de experiencias,
+las pistas o la dificultad pueden no ser apropiadas.
+Esto no funcionará.
+Oh
+Y no olvidemos el hecho de que todas las soluciones a todos los acertijos
+que has preparado minuciosamente para una mazmorra
+todos están disponibles en Internet.
+Estas fueron todas las convenciones de Zelda.
+Así que nuestro primer paso en el diseño del juego fue
+volver a examinar estas convenciones y poner nuestra mirada en cambiar
+la estructura del juego de una pasiva donde
+juegas dentro de los límites de un mecanismo preparado previamente
+a uno donde el usuario puede participar activamente con el juego.
+Ellos son.
+Entonces, ¿qué es un juego activo?
+Nuestro primer enfoque fue eliminar esos muros infranqueables,
+que eran una convención de Zelda al transformar las paredes y
+permitiendo al usuario escalarlos en nuestro campo de juego experimental
+transformando paredes,
+que se utilizaron para representar los límites en otra ruta opcional.
+Es como si todo el paisaje se retrasara antes de que el usuario se abriera preguntándoles.
+Entonces, ¿qué camino vas a tomar?
+Y fue en este punto que me di cuenta de esto
+era el tipo de diseño de juego que buscaba
+y tiene el potencial para crear este juego activo que había imaginado.
+Y así, naturalmente, después de subir a la cima de una montaña alta y mirar hacia abajo,
+solo hay una cosa que puedes hacer.
+Entonces
+tu saltas
+introduciendo una acción por la que puedes deslizarte por el aire con un objeto.
+Una vez que subes, puedes volar a donde quieras.
+Sentí que este era el ingrediente crucial
+que ampliará la sensación de libertad en el nuevo Zelda.
+Después de presenciar una simple multiplicación de acción y campo de jugadores,
+crear una posibilidad infinita de juego a través de un movimiento.
+Llegué a la conclusión de que este concepto
+del juego multiplicativo es la respuesta.
+estaba buscando
+muchos acertijos que se encuentran en los juegos de Zelda se basan en cosas como fenómenos naturales
+o hechos científicos simples que no requieren mucho conocimiento previo.
+Pero con la forma en que habíamos estado construyendo juegos hasta ahora,
+estábamos usando cada uno de estos individualmente como pistas o sugerencias para resolver acertijos.
+No es una exageración decir que los objetos que hicieron
+cada uno de estos rompecabezas se hizo específicamente para esos rompecabezas.
+Por supuesto, esto nos permite afinar y pulir la experiencia de juego.
+Pero desafortunadamente, requiere muchos recursos y esto
+El método de desarrollo por adición no iba a funcionar para el nuevo Zelda.
+Así que mi siguiente pensamiento fue: me pregunto si puedo usar esta idea de la multiplicación.
+y aplicarlo a la producción en masa de estos rompecabezas,
+hacer el juego para que los objetos reaccionen a la acción de los jugadores
+y los objetos mismos también se influyen entre sí.
+Si pudiéramos hacer esto, sentí que podríamos estar un paso más cerca de crear un juego activo.
+Así que tenía que averiguar si aplicar esta hipótesis a Zelda
+e implementar este juego multiplicativo
+en realidad dan como resultado un juego activo.
+Decidí experimentar con esto de la manera más simple posible.
+Y el resultado fue lo que les mostré al principio del panel,
+Pensé que la forma más rápida de dar vida a esta idea y presentarla
+esto al resto del equipo sería crear esto en dos D.
+Así que le llevé los datos del personaje al director técnico, el Sr. do.
+quién vendrá después de esto y le pedirá que lo haga
+como pueden ver este es un Zelda dos D.
+Pero usamos esto como una forma de experimentar.
+con el mecanismo mecánico del que estaba hablando antes.
+Así que se podría decir que este es un prototipo legítimo de
+Aliento de lo salvaje y, por lo tanto, vincula la ropa azul,
+esto es muy nostálgico.
+Así que echemos un vistazo a este video donde comparamos
+el experimento y el resultado que es aliento de lo salvaje.
+Qué pensaste?
+¿Bien?
+Este prototipo no incluye ningún rompecabezas.
+Todo lo que hicimos fue proporcionar una situación que involucrara un río y algunos árboles.
+Pero el usuario puede entonces pensar por sí mismo y crear un camino a seguir.
+En
+esta sencilla configuración.
+Solo había una regla, hay una situación y una meta ¿puedes alcanzarla?
+Y cuando las diversas acciones, elementos,
+paisaje y objetos que reaccionan de diversas maneras
+se multiplican usando esta regla simple,
+se creó un juego activo donde innumerables eventos diferentes
+ocurren para los cuales el usuario puede crear soluciones libremente.
+Y a través de este tipo de experimentación primitiva simple,
+hicimos el llamado de qué cambiar y qué no cambiar,
+para completar el diseño básico del juego.
+Entonces
+A continuación, averigüemos cómo lo hace el director técnico Mr.
+el hombre con el
+fuerza de la sabiduría, en realidad se dio cuenta de esto
+juego multiplicativo. Llevatelo.
+Hola a todos.
+mi nombre es takushi
+Dota
+y soy el director técnico técnico de Breath of the world.
+Me uní a Nintendo en 2003.
+y he contribuido a una variedad de títulos como programador de juegos
+o a través de la tecnología del juego y el desarrollo del motor
+en el transcurso del desarrollo.
+Los programadores de nuestro equipo tuvieron que romper todos
+tipo de convenciones en lo que respecta a la tecnología del juego
+del sistema de terreno usado para construir un
+mundo masivo a cosas como gráficos y sonido
+Metodología de diseño de niveles Animación AI,
+incluso nuestra canalización para tareas de creación y gestión de activos,
+nos vimos obligados a repensar nuestro enfoque para todo tipo de desafíos relacionados con la tecnología,
+las formas en que resolvemos estos desafíos hacen
+para historias interesantes en sí mismas.
+Pero estamos un poco presionados por el tiempo aquí algún día.
+Si tenemos la oportunidad, me encantaría contártelo todo.
+Así que me gustaría hablar hoy sobre cómo nos fue
+sobre la realización de esta idea de juego multiplicativo que el Sr. Fuji
+previamente mencionado,
+en realidad es una cuestión de física y química,
+pero no te preocupes, esto no será una conferencia académica ni nada.
+Considero que los juegos de la leyenda de Zelda son juegos de acción.
+para ocuparnos de nuestro negocio de romper las convenciones. Decidimos dar un paso atrás
+y piensa en los elementos más primitivos de los juegos de acción
+en
+sus componentes más básicos, un juego de acción se compone de colisión,
+estados de movimiento y objeto,
+En conjunto, la colisión y el movimiento forman lo que llamamos física en los juegos.
+Pero, por supuesto, cuando se trata de desarrollo de juegos,
+no quieres el tipo de física que encuentras en un libro de texto,
+pero un tipo que se ajuste a las necesidades del juego que estás creando.
+Y esto es lo que llamamos física del juego.
+Desde la era nes,
+una gran cantidad de juegos se han sumado a nuestra comprensión de este concepto de física del juego.
+La física del juego también podría llamarse física falsa o física de los mentirosos.
+Pero, ¿por qué necesitarías decir mentiras?
+Esto es algo que hacemos para aumentar la capacidad de control y la capacidad de respuesta.
+En otras palabras, para cumplir con las exigencias del diseño de juegos,
+también terminamos diciendo estas mentiras para optimizar el procesamiento
+poder y, a veces, incluso para aumentar la sensación de realismo.
+Por otro lado, si estamos diciendo mentiras, ¿de qué nos sirven las leyes de la física,
+Creo que es para que podamos construir un sentido de confianza entre el jugador y el juego.
+los jugadores se encuentran en los eventos del juego que han observado en el mundo real
+y llegar a creer en el conjunto particular de reglas del juego.
+Y esa es la base de las ingeniosas mentiras que decimos en los juegos.
+Y por supuesto, la serie Zelda no es una excepción a esto.
+los títulos anteriores han hecho un amplio uso de la física del juego
+para hacer que realizar acciones y resolver acertijos sea más intuitivo.
+Una de las alegrías de ser programador es decidir cómo hacer para contar
+nuestras astutas mentiras y cómo expresar mejor las cosas que suceden en un mundo imaginario.
+Dado que se suponía que este juego tendría lugar en un vasto mundo.
+Sentí que merecía un juego correspondientemente robusto.
+la física que ayudaría a traerlo a la vida.
+Por otro lado,
+uh crear un alto grado de libertad había sido un
+tema importante para nosotros desde las primeras etapas de desarrollo.
+Por ejemplo, la libertad de llevar cualquier objeto que te guste a cualquier lugar del juego.
+Si te esfuerzas lo suficiente, puedes hacer rodar esta roca desde el principio del juego.
+al lugar donde luchas contra el jefe final.
+Pero, por supuesto, en una simulación física,
+tienes que hacer posible este tipo de cosas
+en un conjunto de situaciones complejas y casi infinitas.
+Los recursos de desarrollo asociados con la creación de este
+tipo de simulación física sería inmenso.
+Pero estábamos decididos a hacer que la física de este juego fuera divertida.
+Nos dimos cuenta de que si continuábamos usando el mismo enfoque que teníamos en juegos anteriores,
+nos quedaríamos sin energía mucho antes de alcanzar nuestra meta.
+Y así, después de hacer algunas pruebas,
+decidimos usar Havoc para ayudar a crear nuestra simulación física,
+la estabilidad y robustez del motor.
+Sin mencionar su historial comprobado en la industria de los juegos.
+hizo estragos en una opción atractiva. Esto nos permitiría decir todas las mentiras ingeniosas.
+Queríamos
+la mayoría de las acciones y elementos que hemos introducido en aliento de lo salvaje,
+dependen en gran medida de la física del juego.
+Esto vino de poder enfocar nuestros esfuerzos en los elementos que más queríamos hacer.
+Déjame mostrarte algunos ejemplos.
+Primero es la estasis
+una habitación que te permite detener los efectos del tiempo en objetos específicos.
+Puede parecer que simplemente se detuvo,
+pero internamente el objeto está trabajando duro para mantener su estasis.
+es la ley de
+Conservacion de energia
+excepto que realmente eso es una mentira.
+Se siente bien en el momento en que sucede, pero tiene menos sentido,
+cuanto más te detienes y lo piensas,
+la física está en su mejor momento cuando te dejan
+crear cosas como esta que no pueden existir en la realidad.
+El siguiente es imanes
+una habitación que te permite mover objetos metálicos a voluntad.
+Parece magnetismo pero no lo es.
+en realidad, en cambio, es algo así como el magnetismo.
+El punto aquí es prevenir la inestabilidad de un
+perspectiva de programación sin sacrificar el control para el jugador.
+Y aquí está la escalada en roca que el Sr. Fujii
+también mencionado
+creando una restricción dinámica entre el enlace y la superficie que está escalando,
+lo conectamos a él.
+El programador encargado de esta escalada
+movimiento realmente enfocado en hacerlo bien.
+Y gracias a ese esfuerzo,
+Pudimos hacer que los enlaces subieran objetos en movimiento de una manera satisfactoria.
+y sus estragos que hicieron el trabajo de resolver el problema de la restricción para nosotros.
+El acto de talar un árbol es posible gracias a una especie de destrucción falsa.
+En el momento en que el árbol comienza a caer,
+se transforma en un objeto de registro.
+Cuando el tronco cae al agua, flota.
+Esta capacidad de flotar en el agua tiene un significado importante para el diseño de juegos.
+Cuando un objeto flota en el juego,
+significa que has inventado un tipo de flotación único pero ilusorio.
+Ahora, me gustaría volver al tema del juego multiplicativo que el Sr. Fu
+mencionado
+en nuestros diversos experimentos de prueba y error con la física del juego.
+Hubo una cosa que notamos.
+Si unifica su mundo de juego con un conjunto de reglas físicas consistentes,
+al jugador se le ocurrirán ideas para todo tipo de cosas que quiera probar.
+Entonces, por ejemplo, esta losa de metal se coloca aquí para permitirle cruzar este río.
+Pero una vez que lo recoges,
+es posible que de repente quieras intentar dejarlo caer sobre un enemigo.
+Una vez que veas ese tronco flotando en el río, es natural que quieras intentar saltar sobre él.
+simplemente montar un tronco río abajo, parece que sería divertido.
+Es posible que recuerde esto del prototipo anterior.
+Y si puedes trepar, mover objetos,
+qué tipo de batalla se desarrollaría si fueras
+luchando contra un enemigo gigante al que podrías escalar?
+¿Qué pasaría si te subieras a un objeto?
+¿Que te habías cargado de energía usando estasis?
+Mi punto es que terminé siendo inundado con ideas como esta.
+Mi entusiasmo no provenía de mi perspectiva como desarrollador, sino como jugador,
+¿Qué pasa si intento eso o espero, tal vez esto?
+este sería un mundo donde
+combinar elementos simples podría producir resultados complejos
+donde sentirías la emoción de imaginar las cosas que querías probar mientras jugabas.
+Me di cuenta de que ese era el juego que debíamos intentar hacer.
+DE ACUERDO. Ahora, me gustaría cambiar un poco de tema.
+Estos dos son miembros de nuestro equipo de desarrollo.
+Están discutiendo cómo deberíamos ir para romper estas convenciones nuestras.
+parece que se lo están pasando bien.
+Esta debe ser una conversación sincera.
+Oh
+DE ACUERDO. Ahora parece que las cosas realmente se están calentando.
+Fue durante esta discusión que nació cierta palabra clave.
+Si los motores físicos son algo así,
+¿Por qué nunca oyes hablar de los motores químicos?
+como probablemente sepas
+la serie Zelda ha utilizado durante mucho tiempo el tipo
+de eventos que ocurren en la química como en los elementos del juego,
+al igual que con la física creando rompecabezas,
+con soluciones que hacen referencia a la forma en que funciona el mundo real
+puede ayudar a los jugadores a resolverlos instintivamente.
+Química.
+Y entonces decidimos desarrollar un motor de química,
+hacer un motor de química a un.
+Entonces, ¿qué es exactamente este motor de química?
+Una forma de describir un motor de física es como una calculadora de movimiento basada en reglas.
+En comparación,
+decidimos que el motor de química sería una calculadora de estado basada en reglas.
+Mencioné esto antes, pero los juegos de acción se hacen
+de colisión más movimiento más estados cambiantes.
+Y es nuestro motor de química el que calcula estos cambios en el estado de las cosas.
+Así que me gustaría dar una explicación simple de nuestro diseño para mostrar
+qué tipo de cálculos está ejecutando este motor de Química.
+Primero, nos referimos a cosas como el fuego,
+agua y hielo que no mantienen una forma sólida constante como elementos.
+A continuación, llamamos a objetos sólidos como árboles y rocas, incluso el jugador,
+el personaje del jugador y los materiales de las armas.
+El motor químico usa estas cosas para hacer
+sus cálculos basados ​​en tres reglas simples.
+Lo primero es la regla uno
+elementos pueden cambiar el estado de los materiales.
+Entonces las hojas del árbol se queman y desaparecen.
+La siguiente es la regla dos
+los elementos pueden cambiar el estado de los demás
+ella tiene.
+Entonces el fuego desapareció cuando entró en contacto con el agua.
+Y finalmente, la regla tres
+los materiales no pueden influir en los estados de los demás.
+Entonces puedes ver que ninguno de ellos cambió.
+Y ese es el motor de Química en pocas palabras.
+El modelo es extremadamente simple pero permite
+para la expresión de todo tipo de eventos.
+Hm.
+Sí,
+todos estos tipos de interacciones en el juego son realizados por el motor de Química.
+Espera, ¿la electricidad y el viento son parte de la química?
+en un libro de texto. La respuesta es, por supuesto, no.
+Pero en el motor de química, puedes apostar que son
+aparte de la dinámica de cuerpo rígido,
+consideramos que todos los fenómenos que ocurren en la naturaleza son químicos.
+Y así para nuestros propósitos,
+cosas como el viento y la electricidad se consideran elementos.
+De nuevo,
+tratarlos de esta manera nos da un método simplificado con el que modelar el mundo.
+No es que quisiéramos crear un motor que replique la química.
+En cambio,
+queríamos crear una calculadora de estado para todos
+estos objetos que están conectados entre sí.
+Hay otra razón por la que nos referimos a este tipo de cosas como química.
+durante el desarrollo, llamamos a este juego multiplicativo.
+Estábamos tratando de crear un juego de reacción química.
+Este motor es el dispositivo que hace posible este tipo de juego.
+Entonces, de esa manera también, puede considerarse química,
+dada la situación adecuada,
+los elementos también pueden generar energía e impactar el mundo físico.
+De este modo,
+todas las partes constituyentes del mundo que creamos
+se rigen por nuestras reglas de física y química.
+Sí,
+él
+DE ACUERDO.
+Pero
+y con eso,
+teníamos el juego que esperábamos hacer uno
+que usaba la multiplicación para aumentar las cosas que podías hacer
+antes, señor
+fujii
+hizo la pregunta,
+¿Cómo podemos crear un juego que use la multiplicación para expandir el juego?
+Resulta que nuestra respuesta a esto fue
+para construir conexiones entre todo en el mundo.
+Esto significa que todo lo que ves en el juego está vinculado, por así decirlo.
+Y estas conexiones no ocurren simplemente por accidente.
+En cambio,
+están diseñados intencionalmente para tener un
+consistencia general y sentirse instintivo.
+Y, por supuesto, contienen todo tipo de esas ingeniosas mentiras que nos gusta contar.
+Pero cuando comenzamos, no teníamos ninguna garantía de que este tipo de enfoque funcionara.
+Así que usé dos gráficos D para crear rápidamente un prototipo como prueba de concepto.
+Esa fue la imagen de dos D Zelda que viste antes
+creación de prototipos
+La creación de prototipos en dos D es útil porque le permite reducir el juego
+a un conjunto de símbolos y mostrar claramente la lógica detrás de una idea.
+Pero como pueden ver, este prototipo es en realidad en 3d.
+y bajo el capó,
+hubo versiones tempranas de nuestros motores de física y química en el trabajo
+en el mundo de Aliento de lo salvaje.
+Este juego multiplicativo se encuentra en el espacio entre situaciones y objetivos.
+Si puedes ver estas conexiones entre los elementos del mundo,
+el paisaje que te rodea adquiere un nuevo significado y te plantea preguntas.
+También debería inspirarte a experimentar y probar todo tipo de ideas.
+Hemos llenado todos los rincones del mundo del juego con estos conjuntos de situaciones y objetivos.
+Y por supuesto, hemos imaginado
+formas correctas de resolver cada uno de ellos.
+Pero eso no quiere decir que queramos que el jugador busque y encuentre las respuestas correctas.
+En cambio,
+queremos que se diviertan pensando y probando soluciones por su cuenta.
+Habiendo escuchado nuestra presentación hasta este punto.
+¿Se han encontrado descifrando sus propios
+respuestas a las situaciones que hemos mostrado en pantalla.
+Si pensando en probar
+y eventualmente encontrar soluciones indirectas o atajos inesperados es divertido,
+entonces creo que en sí mismo es la forma correcta de jugar este juego.
+Una convención con la que rompimos al hacer aliento de la
+salvaje fue crear un mundo donde la diversión ocurre a través de la multiplicación
+a diferencia de uno en el que los elementos divertidos simplemente se suman en una suma total
+multiplicando acciones con el diseño de la
+campo de juego y los objetos colocados en él,
+creas una situación en la que puede ocurrir casi cualquier cosa.
+Nuestro objetivo era ofrecer una experiencia de juego más activa y abierta.
+Y espero que los jugadores disfruten ideando sus
+propias soluciones únicas para los rompecabezas y desafíos del juego,
+¿bien?
+I
+significar,
+Realmente quiero que los jugadores disfruten de esos momentos en los que haces algo y piensas.
+Dios mío, soy un genio
+ahora cambiando de tema.
+Quiero mostrarles un correo electrónico que recibimos durante
+desarrollo de la versión Wii U del juego.
+No.
+DE ACUERDO.
+Nos dieron la misión adicional de lanzar el juego para Nintendo Switch
+y eso es un productor para ti.
+Tiene aún más valor para decir que el Sr. Fujii.
+eso
+pero ir al grano adaptando el juego para el
+Nintendo Switch fue más fácil de lo que pensábamos que sería.
+Y esa es mi honesta opinión. Como desarrollador de juegos, resumiré lo que quiero decir
+Primero, el SDK nos ayudó bastante.
+Nintendo SDK es el entorno de desarrollo estándar para un interruptor de Nintendo
+en el lado del hardware también.
+Los atributos que puedes ver en pantalla le dieron
+una arquitectura versátil con la que era fácil trabajar.
+He desarrollado juegos para Gamecube, Nintendo DS, Wii three DS y Wii U.
+Pero esta fue la primera vez que no hubo necesidad
+para implementar cualquier solución complicada debido a la arquitectura del hardware.
+Cuando pusimos en marcha la versión de Nintendo Switch por primera vez,
+pero aún no había hecho ninguna optimización.
+Ya estábamos viendo frame rates iguales o mejores que la versión de Wii U.
+También comenzamos a pensar en formas de usar el Aliento de
+the Wild para mostrar el atractivo de la plataforma en sí.
+norte
+el interruptor de Nintendo presenta una serie de elementos de juego únicos
+siendo los controladores Joycon el ejemplo más obvio.
+Y creo que nos destacamos en el diseño de juegos que aprovechan estas herramientas para jugar.
+Sin embargo, Breath of the Wild no incluye nada como esto.
+para Aliento de lo salvaje.
+Queríamos ofrecer el mismo diseño de juego a
+jugadores tanto en Wii U como en Nintendo Switch.
+Pero mirando hacia atrás en nuestro hardware anterior,
+siempre hemos tenido títulos de lanzamiento que conllevan el deber adicional
+de hacer que el atractivo del hardware sea fácil de ver.
+Pero entonces, ¿qué queríamos intentar transmitir con esta versión del juego?
+Es la novedad de poder llevarlo contigo a donde vayas
+y también
+que obtenga este valor agregado automáticamente sin tener que diseñar para ello.
+Fuimos los primeros en ser tomados por sorpresa y sorprendidos por esto.
+y es algo que quería asegurarme de transmitir tanto a los fans como a los desarrolladores.
+No creo que haya un título mejor para
+mostrando esta característica que Breath of The Wild
+en la recta final, hicimos algunas mejoras en la calidad gráfica y de audio
+y Breath Of The Wild para Nintendo Switch estaba completo.
+Hay una última cosa que el interruptor de Nintendo hizo posible para el juego.
+El caballero que ves mirando la pantalla es
+uno de los miembros de nuestro equipo de desarrollo.
+El juego se mueve y todo lo que hace es mirarlo.
+Señor
+Entonces
+según él, esta era la forma más cómoda de jugar.
+Breath of The Wild es un juego sobre la libertad
+llevándolo al interruptor de Nintendo.
+Ampliamos esa libertad para poder elegir tu estilo de juego preferido.
+Este estilo de juego no es necesariamente el correcto que imaginamos.
+Pero si esto hace que el juego sea divertido para ti,
+entonces esa se convierte en tu forma correcta de jugar en Nintendo Switch.
+Y eso pone fin a mi parte de la presentación. Muchas gracias.
+Finalmente, pasaremos a discutir cómo le dimos a este complejo mundo, su estilo artístico.
+Eso se lo dejo a nuestro director de arte, el Sr. Taza.
+El hombre con la tri fuerza del poder de mostrar.
+Hola a todos.
+Soy el director de arte de Legend of Zelda Breath of the Wild.
+He pasado la mayor parte de mi tiempo en Nintendo como
+artista en el desarrollo de la serie Legend of Zelda.
+Comencemos por echar un vistazo a algunas de las obras de arte,
+prueba y error para Breath Of The Wild.
+Aquí hay algunos bocetos conceptuales del enlace del personaje principal.
+y aquí hay bocetos de diseño de las ruinas antiguas que aparecen en el juego,
+esconderse de las guerras.
+Siguiente guerras de reglas altas
+enlace en Kioto
+Enlace en Kioto.
+Y aquí hay una invasión del espacio exterior.
+morir
+por.
+Sí, aquí es donde las cosas se pusieron un poco peligrosas.
+jari,
+enlace de chándal
+en
+motorista
+músico, enlace, músico, enlace,
+enlace en Meteoroid y enlace en metroid.
+Teníamos muchas ideas.
+Finalmente, este es el diseño que decidimos para las ruinas antiguas.
+Entonces
+y aquí está el diseño final para el enlace
+estás pensando, ya sabes juego
+hombre
+yo digo que ella
+debe
+Ahora echemos un vistazo a algunas capturas de pantalla del juego completo.
+Así que hoy me gustaría hablar sobre por qué elegimos este
+estilo artístico y algunos temas universales que surgen en la creación artística
+es decir lo que permaneció constante.
+Primero, echemos un vistazo a los títulos de Zelda en los que he estado involucrado.
+de tiempo
+Mascarilla,
+espacio de nintendo,
+la demostración técnica que revelamos para gamecube en Nintendo Space World,
+el despertador del viento
+Crepúsculo
+a la princesa Crepúsculo, princesa,
+el
+Espada y espada hacia el cielo.
+Han pasado 30 años desde el lanzamiento del
+zelda
+Solo he estado involucrado en una pequeña parte de los títulos de Zelda.
+Pero aun así algo que me llamó la atención de esta serie de larga duración
+es cuán agresivamente se ha cambiado el sistema de juego cada vez.
+Creo que es algo bastante raro.
+Para afrontar este reto,
+los artistas han tenido que buscar continuamente un estilo de arte que facilite la mentira.
+Entonces, ¿cuál es el estilo artístico que hace que sea fácil mentir?
+Es un estilo de arte que se adapta al juego mientras cumple
+la jugabilidad exige sin perder la sensación de realidad.
+Entonces, ¿qué es la jugabilidad,
+el agradable,
+placer de comportamientos o visuales basados ​​en el juego o en otras palabras, función
+para un juego, la optimización de la simpatía del ciclo del juego en respuesta es
+la cosa más importante.
+Una realidad en la que los jugadores pueden hundirse.
+esto tambien es muy importante
+a medida que te alejas de la realidad,
+tanto el tempo como la visibilidad mejoran y el nivel de placer aumenta.
+Pero la realidad del mundo tiende a perderse.
+Habiendo dicho eso,
+si le da demasiada importancia a la realidad del comportamiento y la presentación,
+puede dañar un ciclo de juego agradable y capacidad de respuesta.
+Entonces, ¿cuál es un estilo de arte adecuado que hace
+estos dos elementos son compatibles en el buen sentido?
+Ese es el arte que hace que sea fácil mentir.
+Entonces, después de Skyward Sword, ¿cómo surgió el arte que hace que sea fácil mentir?
+tiene que cambiar para llevar a Zelda a la era HD.
+Esta pregunta fue el comienzo del proceso de prueba y error.
+lo que nos llevó al estilo artístico de aliento de lo salvaje
+experiencias.
+Aquí está la experiencia HD de demostración técnica que mostramos en E tres en 2011.
+En respuesta a la adopción de pantallas de alta resolución,
+tomamos un enfoque directo y llenamos la pantalla con muchos detalles
+mientras realizaba pruebas de renderización basadas físicamente en PB R.
+Intentamos nuestra mano en la creación de común
+ciudades, CCAS
+también.
+Lanzamos modelos de títulos anteriores a nuestro
+nuevo entorno de desarrollo y probé algunas maquetas HD
+Cielo.
+Aquí está Skyward Sword,
+No estoy seguro de por qué, pero toda la pandilla está aquí,
+Princes y aquí está Twilight Princess.
+Entonces
+y el
+despertador,
+este nuevo arte de Wind Waker se destacó de las otras maquetas HD y realmente
+capturé la imaginación del artista principal en Breath of the Wild yo mismo incluido
+este arte garantiza la jugabilidad desde todos los aspectos, incluida la visibilidad y la acción
+y todavía permite la construcción de una realidad única.
+Es un estilo artístico con el que es muy fácil mentir.
+Tiene una gran originalidad y se ha mantenido fresco incluso después de 10 años.
+y se siente bien jugar.
+Esto condujo a la creación oficial de la nueva versión de Wind Waker HD.
+También está conectado a algo que sucedió un día y condujo directamente
+hasta la finalización de la dirección de arte de Breath of the Wild
+un día durante las etapas finales del proceso de desarrollo de Wind Waker HD,
+Fui convocado por el aliento del director salvaje Sr. Fujii
+y productor Sr.
+Auma.
+Señor,
+señaló una pantalla de alta definición Wind Waker y dijo esto justo aquí,
+¿bien? Respondí,
+los otros artistas y yo estábamos completamente de acuerdo, así que no dudé en hablar.
+Señor
+dijo, estoy de acuerdo
+y con eso se decidió,
+todo tomó menos de un minuto.
+Fue realmente sorprendente en ese momento.
+Pero mirando hacia atrás ahora y viendo cómo el juego no perdió nada de su
+originalidad o jugabilidad a lo largo del desarrollo de Wind Waker HD
+más el hecho de que todo el personal fue testigo de la solidificación
+y expansión de la realidad del juego día tras día,
+nuestro acuerdo sobre el tema parece bastante natural.
+Esto es un poco fuera de tema,
+pero aquí hay algo que apoya nuestra creencia común de que
+somos buenos en este tipo de creación artística.
+La diferencia en la evolución de la pintura entre Occidente y Japón.
+Podríamos tener una discusión bastante interesante si empezáramos a profundizar en
+en cómo el manga y el arte de la animación se han cruzado en un más amplio,
+atractivo más convencional en el Japón moderno.
+Pero no es por eso que estamos aquí. Así que vamos a tener que guardar eso para otro momento.
+Así que volvamos a nuestra discusión.
+Seguimos explorando la creación artística a partir del viento
+waker y se nos ocurrió nuestro eslogan final de creación de arte,
+refrescante y lleno de sabor.
+Definitivamente,
+este es el lema de creación de arte muy importante que adoptamos para Breath Of The Wild
+en Japón. Creo que mucha gente escucharía esto y querría tomar una cerveza.
+¿Y tú?
+Entonces, ¿por qué elegimos este eslogan?
+En realidad, había un punto débil en el estilo de arte HD de Wind Waker.
+Un punto importante en la opinión del señor Fuji
+concepto de juego
+era llenar el vasto mundo del juego con diversión
+experiencias multiplicativas usando juegos de física y química.
+Y esto fue difícil de lograr con el estilo de arte HD Wind Waker.
+Porqué es eso
+El estilo artístico Wind Waker en su representación del campo de forma de los materiales,
+etcétera es muy estilizado.
+Uno de nuestros objetivos era que el arte sugiriera intuitivamente posibles
+juego de física y química basado en el
+propias experiencias de los jugadores en el mundo real.
+El problema con el estilo artístico de Wind Waker es que las mentiras que decía eran demasiado grandes.
+También hubo otra preocupación con el estilo artístico de Wind Waker.
+La preocupación era si los jugadores mayores podían mirar la pantalla solo por un instante.
+y entender todo lo que estaban viendo,
+podrían sentir que el arte estaba destinado a los niños
+y no era para ellos.
+Entonces
+entonces
+basando el arte en algo fácil de decir mentiras como el arte de Wind Waker,
+podríamos garantizar más fácilmente la función, conforme a la jugabilidad
+y construir más fácilmente la realidad dentro del juego
+allá. Más allá de eso
+necesitábamos sugerir cosas que cualquiera podría hacer en el mundo real.
+Así que necesitábamos un cierto nivel de realismo y
+necesitábamos un estilo artístico maduro y denso en información.
+Nuestro objetivo de apoyar estos elementos por igual nos llevó a ser refrescantes y llenos de sabor.
+Así que hicimos de este nuestro eslogan y condujo al establecimiento del estilo artístico final.
+modelos de iluminación shader, el terreno afecta a los entornos meteorológicos de la interfaz de usuario.
+Nuestro eslogan es la base sobre la cual todos
+estas secciones construyeron sus diseños y comportamientos.
+Por lo tanto, era necesario un tempo y una presentación de eventos bastante optimizados para
+presente el aliento del ritmo del juego salvaje y el ciclo del juego.
+Me gustaría mostrarte los resultados de nuestro ser
+capaz de darse cuenta de esto como algo más que un requisito.
+Llevas un hacha y ves un árbol. Quieres cortar,
+golpeas el tronco de tu hacha y puf en un instante. Tienes fardos de leña.
+Entonces
+incluso están convenientemente atados con
+y puf Es una corazonada de carne cruda,
+pájaros, puf.
+la misma historia,
+no te preocupes.
+Entonces
+incluso puedes obtener bellotas. Recolectar alimentos es un asunto rápido.
+Aquí está comer, comer enlace.
+Esta es la comida rápida perfecta, ¿verdad?
+Seguro.
+Y aquí hay un enlace corriendo con algunos ingredientes.
+Si tuviera que hacer que pareciera realista, no estoy seguro de lo que habría hecho.
+Esa es una aguja que no hubiera podido enhebrar.
+Entonces
+hazlo es
+Y aquí está cocinando enlace,
+el
+los ingredientes se echan en la olla donde
+baila un poco y conviértete en algo delicioso.
+es todo automatico
+asar, hervir, saltear, hornear. Está todo bien.
+Incluso se suministran botellas.
+saltar de un acantilado con una pequeña cometa requiere mucho coraje.
+En realidad, no serías capaz de parar tan rápido.
+muestra si vas a un bar
+cuando te encuentres con corrientes ascendentes, querrás probarlas.
+Incluso puedes hacer la transición al surf de escudo.
+Muy bonito.
+Aquí está
+haciendo un poco de escalada en la pared.
+Se parece a un famoso héroe de cómic estadounidense,
+pero el enlace es manual.
+Nunca olvidaré cómo la sangre drenó de los rostros de nuestros jugadores de entrenamiento,
+rostros de artistas.
+Cuando se enteraron de esta función de escalada.
+Es muy frio.
+DE ACUERDO.
+Hacer
+el,
+¿Entonces, qué piensas?
+Gracias.
+DE ACUERDO,
+gracias.
+DE ACUERDO.
+Entonces, si imaginas estas acciones y lo que no en el mundo real,
+lo que hemos presentado podría considerarse inadmisiblemente cómico
+cuando se implementaron todos los poofs y alimentos danzantes.
+No sentí lo absurdo de ello, sino más bien lo divertido de ello.
+Fue el momento en que sentí que se nos había ocurrido
+la respuesta a lo que este juego necesitaba en su estilo artístico.
+Así que estos títulos, el estilo artístico es
+la reconciliación del conflicto entre jugabilidad y realidad.
+Es el resultado de nuestra búsqueda del arte lo que hace que sea fácil mentir.
+para que coincida con este juego conocido como Breath of the Wild.
+Esto es sin duda, el mismo ensayo y error,
+proceso de error que hemos realizado a lo largo de la historia de la serie Zelda.
+El estilo artístico final parece diferente de cualquier otro título.
+Pero puedes decir que es la constante que alcanzamos
+como resultado de nuestro proceso de pensamiento universal.
+Sin embargo, esto por sí solo no nos lleva a la creación de
+arte.
+Lo entiendes
+¿en Japón? Cuando recordamos algo que nos conmueve el alma, usamos la frase
+para capturar ese sentimiento.
+no puedes crear
+arte o un mundo solo con arte que facilita la mentira,
+para crear un mundo atractivo nunca antes visto lleno de nuevas sorpresas.
+Tienes que romper las convenciones, tienes que ser creativamente imprudente.
+Entonces, tal vez sea seguro decir que, de alguna manera, los creadores de juegos realmente disfrutamos el trabajo violento.
+mmm
+¿De qué manera nuestros artistas
+agrega eso
+sentimiento a su arte?
+Se devanan los sesos todos los días
+a lo largo del desarrollo para manifestar plenamente su individualidad.
+Creo que todos los artistas aquí presentes se identificarán conmigo cuando diga que es
+no voy demasiado lejos para llamar a esto la parte más agradable del proceso.
+Si bien los directores de arte no pueden decidir sobre funciones o pautas,
+cuando surja la oportunidad, para elegir entre múltiples estilos de arte o diseños,
+tenemos la autoridad para desatar el
+algo temerario tri fuerza del poder de mostrar,
+elegir lo que creemos que será
+agitar algunas almas.
+Creo que es posible que en este momento previo al lanzamiento,
+Soy el hombre al que más le ha conmovido el alma con el arte del aliento de lo salvaje.
+Espero desde el fondo de mi corazón que el mundo entero explore
+la inmensidad del alto rol y sus almas se agitan una y otra vez,
+tal como lo hice yo.
+Está bien,
+déjame devolverle la palabra al poseedor de la tri fuerza del coraje para decir Sr. Fujii
+para terminar las cosas.
+Que hizo
+¿tu dices?
+tuvimos la
+fuerza de coraje,
+el coraje de poder decir lo que sea necesario
+se dice que trae una nueva forma de jugar un juego,
+la tri fuerza de la sabiduria,
+la sabiduría para hacer realidad toda la lógica del juego
+y la tri fuerza del poder,
+el poder de construir el mundo de Zelda a partir de todo lo anterior
+como han visto en nuestra charla de hoy a lo largo de nuestro camino para completar este juego.
+Nosotros tres,
+así como el equipo de desarrollo hizo algunos cambios significativos
+a algunos elementos dejando otros como están.
+Espero que seas capaz de ver que romper las convenciones significa cambiar,
+pero también puede significar no cambiar, dejar las cosas como están.
+En 2016, Zelda celebró su 30 aniversario con el apoyo de todos sus fans.
+Breath of the wild es la culminación de esta larga historia de desarrollo.
+Es un juego nuevo, pero al mismo tiempo,
+vuelve a examinar la diversión que se encuentra en la esencia de la franquicia.
+Si encontró una discusión interesante hoy, por favor pruebe la respiración salvaje.
+Creo que podrás hacer nuevos y
+descubrimientos interesantes y nada nos haría más felices si
+algunos de estos nuevos descubrimientos le brindan una
+pista o inspiración para el desarrollo de su futuro juego.
+Muchas gracias por asistir a nuestro panel de hoy.
+y conseguimos
+
+Texto original
+on as a director and as a game designer.
+Valora esta traducción
+Tu opinión servirá para ayudar a mejorar el Traductor de Google
